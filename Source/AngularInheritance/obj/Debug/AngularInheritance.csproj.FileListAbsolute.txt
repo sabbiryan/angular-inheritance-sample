@@ -1,0 +1,6 @@
+c:\Users\Sabbir\Documents\Visual Studio 2015\Projects\AngularInheritance\AngularInheritance\bin\AngularInheritance.dll.config
+c:\Users\Sabbir\Documents\Visual Studio 2015\Projects\AngularInheritance\AngularInheritance\bin\AngularInheritance.dll
+c:\Users\Sabbir\Documents\Visual Studio 2015\Projects\AngularInheritance\AngularInheritance\bin\AngularInheritance.pdb
+c:\Users\Sabbir\Documents\Visual Studio 2015\Projects\AngularInheritance\AngularInheritance\obj\Debug\AngularInheritance.csprojResolveAssemblyReference.cache
+c:\Users\Sabbir\Documents\Visual Studio 2015\Projects\AngularInheritance\AngularInheritance\obj\Debug\AngularInheritance.dll
+c:\Users\Sabbir\Documents\Visual Studio 2015\Projects\AngularInheritance\AngularInheritance\obj\Debug\AngularInheritance.pdb

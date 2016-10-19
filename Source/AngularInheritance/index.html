@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Angular Inheritance Sample</title>
+    <meta charset="utf-8"/>
+    <link href="Content/bootstrap.min.css" rel="stylesheet"/>
+</head>
+<body ng-app="app">
+
+<h1 class="text-center">Angular Inheritance Sample</h1>
+
+<header class="text-center">   
+    <a ui-sref="root.app">App</a>
+    <a ui-sref="root.parent">Parent</a>
+    <a ui-sref="root.chield">Chield</a>
+</header>
+
+<div class="container-fluid" ui-view></div>
+
+
+<script src="Scripts/jquery-1.9.1.min.js"></script>
+<script src="Scripts/bootstrap.min.js"></script>
+<script src="Scripts/angular.min.js"></script>
+<script src="Scripts/angular-ui-router.js"></script>
+
+<script src="app/app.config.js"></script>
+
+<script src="app/app.controller.js"></script>
+<script src="app/parent.controller.js"></script>
+<script src="app/chield/chield.controller.js"></script>
+</body>
+</html>
